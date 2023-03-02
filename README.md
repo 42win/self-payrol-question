@@ -14,7 +14,7 @@ Admin dapat melakukan topup balance perusahaan
 Melakukan penarikan sallary dengan menyertakan employee ID dan secret ID, besaran salary berdasarkan jabatan yang dimiliki oleh tiap employee
 Terdapat riwayat topup dan pengurangan balance perusahaan 
 
-Untuk memudahkan dalam perancangan database silahkan menggunakan [link]("https://drive.google.com/file/d/1N7R7u229GBKsmS3D_SfvJGGS36Q6kQi4/view?usp=sharing") yang telah disediakan, semua endpoint dan response harus sesuai dengan link dokumentasi yang ada pada postman documenter
+Untuk memudahkan dalam perancangan database silahkan menggunakan [link](https://drive.google.com/file/d/1N7R7u229GBKsmS3D_SfvJGGS36Q6kQi4/view?usp=sharing) yang telah disediakan, semua endpoint dan response harus sesuai dengan link dokumentasi yang ada pada postman documenter
 
 Web service kali ini dibuat dengan bahasa GO dan menggunakan database PostgreSQL, sangat disarakan untuk melakukan implementasi clean code sehingga mudahkan dalam pengembangan selanjutnya dan dapat mempermudah pekerjaan secara berkelompok. 
 
